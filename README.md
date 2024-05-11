@@ -10,9 +10,4 @@ Loop de Conversa Interativo: Troque mensagens com o chatbot em tempo real.
 
 Personalização: Ajuste parâmetros de geração e filtros de segurança
 
-## Como Usar
-Cole sua chave de API: Substitua 'COLE SUA API KEY' no código pela sua chave real.
 
-Execute o script: python chatbot.py
-
-Converse: Digite suas mensagens e o chatbot responderá!
